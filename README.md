@@ -18,7 +18,7 @@ comprar articulos de animales, etc. Si quieres ver la pagina web,puedes dar clic
 Creamos varias ramas en el proyecto:
 > ANTHONY
 
-> CARRITO
+> CARRITO:IVÓN Y PABLO
 
 > ESTILO
 
